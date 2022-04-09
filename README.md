@@ -1,5 +1,5 @@
 # beckman-3-expensive
-The deluxe port of Beckman 3, a Pikmin 3 mod that badly translated all text
+The Pikmin 3 Deluxe port of Beckman 3, a Pikmin 3 mod that badly translated all text
 
 Convention is at stake! Convention sent a team of three tourist who does not know to help them! White, Walflap and Britain!
 Can they save the decade from death?
