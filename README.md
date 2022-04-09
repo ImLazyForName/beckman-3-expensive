@@ -9,4 +9,4 @@ Can they save the decade from death?
 Main idea is by Hawkow#5231, and contributed by Lαzyβoii#8970, PotatOS#0194, Vinicius8036#8265 and basalt (foxel)#1337.
 
 
-![Beckman_3_Expensive](https://user-images.githubusercontent.com/62176027/162587632-2556dc38-e84e-4108-8ce2-8c8aa7b9a7c1.jpg)
+![Beckman_3_Expensive](https://user-images.githubusercontent.com/62176027/162587655-65c65ae2-d14b-43e3-a55e-97df8822a81e.png)
